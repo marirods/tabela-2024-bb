@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    
+}
+  
+  
+    table, th, td {
+    border: 4px solid purple;
+  }
+   
+  
+  
+  table {
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 50px;
+    width: 90%;
+  }
+  
+  #foto{
+   max-width: 600px;
+    margin: auto;
+    display: block;
+    border-radius: 400px;
+    border: 5px solid purple;
+  }
+  
+  
+  #Renner{
+    max-width: 200px;
+    align-items: center;
+    margin: auto;
+    display: block;
+    border-radius: 200px;
+  }
+    
+    #Zara{
+    max-width: 200px;
+    align-items: center;
+    margin: auto;
+    display: block;
+    border-radius: 200px;
+  }
+    
+   
+  #CeA{
+    max-width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 20px;
+  } 
+  
+  #Riachuello {
+    max-width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 20px;
+  } 
+  
+  #Hering{
+    max-width: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 20px; 
+  }
+   
