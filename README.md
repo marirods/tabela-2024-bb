@@ -20,5 +20,5 @@ Site informativo para demonstrar uma tabela das lojas de departamento com maiore
 ---
 
 ## Autor
-- [Mariane Rodrigues] (https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
+- [Mariane Rodrigues](https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
 
